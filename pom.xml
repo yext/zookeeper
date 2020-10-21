@@ -30,7 +30,7 @@
   <groupId>org.apache.zookeeper</groupId>
   <artifactId>zookeeper</artifactId>
   <packaging>pom</packaging>
-  <version>3.4.14-java14-SNAPSHOT</version>
+  <version>3.4.14-java14</version>
   <name>Apache ZooKeeper</name>
   <description>
     ZooKeeper is a centralized service for maintaining configuration information, naming,
@@ -67,6 +67,7 @@
     <connection>scm:git:https://gitbox.apache.org/repos/asf/zookeeper.git</connection>
     <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/zookeeper.git</developerConnection>
     <url>https://gitbox.apache.org/repos/asf/zookeeper.git</url>
+    <tag>zookeeper-3.4.14-java14</tag>
   </scm>
   <issueManagement>
     <system>JIRA</system>
